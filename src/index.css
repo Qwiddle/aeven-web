@@ -2,6 +2,22 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "DPComic";
+  src: local("DPComic"),
+   url("./assets/dpcomic.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Unbounded";
+  src: local("Unbounded"),
+   url("./assets/Unbounded-VariableFont_wght.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
