@@ -11,9 +11,9 @@ import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App gap-4">
       <header className="header sticky top-0 bg-black bg-opacity-80 shadow-md flex items-center justify-between px-8 py-02 w-full">
-        <div className="w-3/12 text-3xl  text-stone-100 main-text whitespace-nowrap">
+        <div className="w-3/12 text-3xl text-stone-100 main-text whitespace-nowrap">
           LANTERN&nbsp;
           <i className="fas fa-fire text-red-400 fa-sm h-30" />
         </div> 
@@ -45,8 +45,8 @@ function App() {
         </nav>
       </header>
       <ContentBlock />
-      <FAQ />
       <Buy />
+      <FAQ />
 
       <footer className="text-gray-600 body-font">
         <div className="flex p-2 items-center sm:flex-row flex-col sticky top-0 bg-black bg-opacity-80 shadow-md w-full">

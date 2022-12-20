@@ -4,9 +4,9 @@ import React from 'react';
 function ContentBlock() {
   return (
     <section className="text-gray-100 body-font">
-      <div className="container px-5 py-10 mx-auto">
+      <div className="container px-5 pt-20 pb-10 mx-auto">
         <div className="flex flex-wrap w-full mb-20 flex-col items-center text-center sub-text">
-          <h1 className="sm:text-3xl text-2xl font-medium main-text mb-2 text-stone-100">Your journey awaits...</h1>
+          <h1 className="sm:text-6xl text-6xl font-medium main-text mb-2 text-stone-100">Your journey awaits...</h1>
           <p className="lg:w-3/4 w-full leading-relaxed text-stone-200">
             Welcome to the Lantern Project. Together, we are building an immersive, social 2D world governed by those who control the light. In the game, your successes and failures are defined by the choices you make.
           </p>
