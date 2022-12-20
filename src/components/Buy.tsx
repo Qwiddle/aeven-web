@@ -17,7 +17,7 @@ function Buy() {
             </div>
             <div className="flex-grow pl-4">
               <h2 className="main-text text-sm text-red-400">Q1 2023</h2>
-              <p className="leading-relaxed text-stone-100 sub-text">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+              <p className="leading-relaxed text-stone-100 sub-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatismolestias culpa in</p>
             </div>
           </div>
           <div className="flex relative pb-12">
@@ -31,7 +31,7 @@ function Buy() {
             </div>
             <div className="flex-grow pl-4">
               <h2 className="main-text text-sm text-red-400">Q2 2023</h2>
-              <p className="leading-relaxed text-stone-100 sub-text">Vice migas literally kitsch +1 pok pok. Truffaut hot chicken slow-carb health goth, vape typewriter.</p>
+              <p className="leading-relaxed text-stone-100 sub-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatismolestias culpa in</p>
             </div>
           </div>
           <div className="flex relative pb-12">
@@ -46,7 +46,7 @@ function Buy() {
             </div>
             <div className="flex-grow pl-4">
               <h2 className="main-text text-sm text-red-400">Q3 2023</h2>
-              <p className="leading-relaxed text-stone-100 sub-text">Coloring book nar whal glossier master cleanse umami. Salvia +1 master cleanse blog taiyaki.</p>
+              <p className="leading-relaxed text-stone-100 sub-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatismolestias culpa in</p>
             </div>
           </div>
           <div className="flex relative pb-12">
@@ -59,7 +59,7 @@ function Buy() {
             </div>
             <div className="flex-grow pl-4">
               <h2 className="main-text text-sm text-red-400">Q4 2023</h2>
-              <p className="leading-relaxed text-stone-100 sub-text text-stone-100 sub-text">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+              <p className="leading-relaxed text-stone-100 sub-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatismolestias culpa in</p>
             </div>
           </div>
         </div>

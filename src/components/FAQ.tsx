@@ -27,7 +27,7 @@ function FAQ() {
           </svg>
         </summary>
 
-        <p className="px-4 mt-4 leading-relaxed text-gray-700">
+        <p className="px-4 mt-4 leading-relaxed sub-text text-stone-200">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis
           molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt
           voluptate dicta quo officiis explicabo consequuntur distinctio corporis
@@ -59,7 +59,7 @@ function FAQ() {
           </svg>
         </summary>
 
-        <p className="px-4 mt-4 leading-relaxed text-gray-700">
+        <p className="px-4 mt-4 leading-relaxed sub-text text-stone-200">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis
           molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt
           voluptate dicta quo officiis explicabo consequuntur distinctio corporis
@@ -91,7 +91,7 @@ function FAQ() {
           </svg>
         </summary>
 
-        <p className="px-4 mt-4 leading-relaxed text-gray-700">
+        <p className="px-4 mt-4 leading-relaxed sub-text text-stone-200">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis
           molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt
           voluptate dicta quo officiis explicabo consequuntur distinctio corporis
