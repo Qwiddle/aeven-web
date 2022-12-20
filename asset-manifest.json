@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aeven-web/static/css/main.552d6926.css",
-    "main.js": "/aeven-web/static/js/main.b58b6933.js",
+    "main.css": "/aeven-web/static/css/main.13a4a160.css",
+    "main.js": "/aeven-web/static/js/main.e39dcf73.js",
     "static/js/787.4910860b.chunk.js": "/aeven-web/static/js/787.4910860b.chunk.js",
-    "static/media/header.jpg": "/aeven-web/static/media/header.ef6fc4a3cbb145a95e31.jpg",
     "static/media/Unbounded-VariableFont_wght.ttf": "/aeven-web/static/media/Unbounded-VariableFont_wght.db84d8db427d8dff17c3.ttf",
+    "static/media/cards.png": "/aeven-web/static/media/cards.05fe0716262602f89c6e.png",
     "static/media/dpcomic.ttf": "/aeven-web/static/media/dpcomic.d7850454ee2ba505e533.ttf",
     "index.html": "/aeven-web/index.html",
-    "main.552d6926.css.map": "/aeven-web/static/css/main.552d6926.css.map",
-    "main.b58b6933.js.map": "/aeven-web/static/js/main.b58b6933.js.map",
+    "main.13a4a160.css.map": "/aeven-web/static/css/main.13a4a160.css.map",
+    "main.e39dcf73.js.map": "/aeven-web/static/js/main.e39dcf73.js.map",
     "787.4910860b.chunk.js.map": "/aeven-web/static/js/787.4910860b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.552d6926.css",
-    "static/js/main.b58b6933.js"
+    "static/css/main.13a4a160.css",
+    "static/js/main.e39dcf73.js"
   ]
 }
